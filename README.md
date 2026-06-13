@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Emmanuel Massawe</h1>
+<h1 align="center">Hi there 👋, I'm Emmanuel Lelo </h1>
 <h3 align="center">Data Scientist · Machine Learning Engineer · MLOps Engineer</h3>
 
 <p align="center">
@@ -9,7 +9,7 @@
   <a href="mailto:emmanuelmassawe200@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/emmanuel-lelo-61b343334/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://hub.docker.com/repositories/emmanuely2000"><img src="https://img.shields.io/badge/Docker_Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></a>
-  <a href="https://dagshub.com/emmanuely2000"><img src="https://img.shields.io/badge/DagsHub-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
+  <a href="https://dagshub.com/emmanuelmassawe200"><img src="https://img.shields.io/badge/DagsHub-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
 </p>
 
 ---
