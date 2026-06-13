@@ -142,9 +142,9 @@ I built and shipped a full MLOps stack — experiment tracking, data versioning,
 ### 📫 How to reach me
 
 <p>
-  <a href="mailto:emmanuely2000@gmail.com"><img src="https://img.shields.io/badge/Email-emmanuely2000@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/emmanuel-lelo"><img src="https://img.shields.io/badge/LinkedIn-emmanuel--lelo-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://hub.docker.com/u/emmanuely2000"><img src="https://img.shields.io/badge/Docker_Hub-emmanuely2000-2496ED?style=flat-square&logo=docker&logoColor=white"/></a>
+  <a href="mailto:emmanuelmassawe200@gmail.com"><img src="https://img.shields.io/badge/Email-emmanuelmassawe200@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/emmanuel-lelo-61b343334/"><img src="https://img.shields.io/badge/LinkedIn-emmanuel--lelo-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://app.docker.com/accounts/emmanuely2000"><img src="https://img.shields.io/badge/Docker_Hub-emmanuely2000-2496ED?style=flat-square&logo=docker&logoColor=white"/></a>
 </p>
 
 ---
